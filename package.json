@@ -1,0 +1,17 @@
+{
+  "name": "the-journey",
+  "description": "Explore the cosmos with Discovery Space Orbiter project, featuring cutting-edge HTML, CSS, and JS technologies for an awe-inspiring web experience.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhijit Sarode, Apoorva Gowda",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.2",
+    "locomotive-scroll": "^4.1.4",
+    "parcel": "^2.9.3",
+    "three": "^0.154.0"
+  }
+}
