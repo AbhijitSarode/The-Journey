@@ -117,3 +117,19 @@ section {
 #gallery {
     background-color: #0A0A0A;
 }
+
+
+/******************************************** 
+      ********    CURSOR     *******
+*********************************************/
+#home {
+	cursor: url(../assets/cursor.png), auto;
+}
+
+#stats {
+
+}
+
+#gallery {
+	
+}
